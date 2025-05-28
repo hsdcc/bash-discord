@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Discord Terminal Client v3.1
+# discord-bash
 # Features: Enhanced TUI with message sending, Improved channel handling
 # Requirements: jq, curl
 
 # Clear screen and show welcome
 clear
 echo "================================================"
-echo " Discord Terminal Client v3.1 - Enhanced Edition"
+echo "                  bash-discord                  "
 echo "================================================"
 echo
 
