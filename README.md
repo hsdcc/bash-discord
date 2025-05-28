@@ -58,8 +58,10 @@ cd bash-discord
 ```bash
 bash hsd.sh
 ```
-
-
+  **or :**
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/hsdcc/bash-discord/main/bash-discord.sh)" // one-time-use
+```
 ---
 
 ## ❗ disclaimer
