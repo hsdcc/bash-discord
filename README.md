@@ -1,3 +1,6 @@
+## this was just a fun project. i am no longer working on this.
+
+
 #  bash-discord
 
 a sleek terminal-based discord client made with pure `bash` + `curl` + `jq` ,  
